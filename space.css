@@ -1,0 +1,25 @@
+body{
+    color: whitesmoke;
+    background-image: url(animated );
+    background-size: cover;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-size: 30px;
+    font-style: normal;
+}
+    
+
+.btn{
+    padding: 5px 10px;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.cfa{
+    text-decoration-line: underline;
+}
